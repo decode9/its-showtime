@@ -24,6 +24,21 @@ display_mouse_set(150, _display_mouse);
 
 object_cursor_mini1.x = mouse_x;
 object_cursor_mini1.y = mouse_y;
+if !game_finish{
+
+if counter < 60 {
+	counter +=1;
+}
+
+if counter >= 60 {
+	timer -=1;
+	counter = 0;
+}
+if timer== 0 {
+	game_finish = true;
+}
+}
+
 
 //_cursor.x = 100;
 

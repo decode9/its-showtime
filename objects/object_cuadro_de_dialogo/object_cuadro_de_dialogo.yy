@@ -2,19 +2,14 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "object_cuadro_de_dialogo",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
-  ],
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "Objetos",
     "path": "folders/Objetos.yy",
   },
-  "parentObjectId": {
-    "name": "object_button_parent",
-    "path": "objects/object_button_parent/object_button_parent.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

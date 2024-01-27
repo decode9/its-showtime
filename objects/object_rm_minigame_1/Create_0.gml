@@ -1,6 +1,10 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
 
+Test = false;
+
+counter = 0;
+timer = 30;
 points = 0;
 loss = 0;
 game_finish = false;
