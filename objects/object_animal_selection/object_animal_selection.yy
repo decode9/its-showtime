@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "MiniGame3",
+    "path": "folders/Objetos/MiniGame3.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite21",
-    "path": "sprites/Sprite21/Sprite21.yy",
+    "name": "spr_totogames",
+    "path": "sprites/spr_totogames/spr_totogames.yy",
   },
   "spriteMaskId": null,
   "visible": true,

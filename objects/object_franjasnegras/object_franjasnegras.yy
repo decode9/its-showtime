@@ -6,8 +6,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "MainMenu",
+    "path": "folders/Objetos/MainMenu.yy",
   },
   "parentObjectId": null,
   "persistent": false,
