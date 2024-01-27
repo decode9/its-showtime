@@ -3,7 +3,7 @@
 
 var _dif = xstart - x;
 direction = 180;
-speed = 5;
+speed = 15;
 if(object_rm_minigame_1.game_finish) instance_destroy()
 
 if((_dif > 30 && !preview_item) && !object_rm_minigame_1.game_finish){

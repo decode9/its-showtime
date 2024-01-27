@@ -37,11 +37,12 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.4.0.84",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
     {"id":{"name":"spr_bloque_dialogo","path":"sprites/spr_bloque_dialogo/spr_bloque_dialogo.yy",},},
+    {"id":{"name":"object_cuadro_de_dialogo","path":"objects/object_cuadro_de_dialogo/object_cuadro_de_dialogo.yy",},},
     {"id":{"name":"ComicFont","path":"fonts/ComicFont/ComicFont.yy",},},
     {"id":{"name":"base_bg","path":"sprites/base_bg/base_bg.yy",},},
     {"id":{"name":"secuence1_Walk","path":"sequences/secuence1_Walk/secuence1_Walk.yy",},},
@@ -49,6 +50,7 @@
     {"id":{"name":"rm_minigame_2","path":"rooms/rm_minigame_2/rm_minigame_2.yy",},},
     {"id":{"name":"object_button_play","path":"objects/object_button_play/object_button_play.yy",},},
     {"id":{"name":"spr_rope8","path":"sprites/spr_rope8/spr_rope8.yy",},},
+    {"id":{"name":"spr_rope_minigame","path":"sprites/spr_rope_minigame/spr_rope_minigame.yy",},},
     {"id":{"name":"object_player","path":"objects/object_player/object_player.yy",},},
     {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},},
     {"id":{"name":"object_animal_hidden","path":"objects/object_animal_hidden/object_animal_hidden.yy",},},
@@ -87,6 +89,13 @@
     {"id":{"name":"spr_Svanio_triste","path":"sprites/spr_Svanio_triste/spr_Svanio_triste.yy",},},
     {"id":{"name":"spr_personaje_fall","path":"sprites/spr_personaje_fall/spr_personaje_fall.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"id":{"name":"spr_franjasnegras","path":"sprites/spr_franjasnegras/spr_franjasnegras.yy",},},
+    {"id":{"name":"object_franjasnegras","path":"objects/object_franjasnegras/object_franjasnegras.yy",},},
+    {"id":{"name":"spr_cursor","path":"sprites/spr_cursor/spr_cursor.yy",},},
+    {"id":{"name":"object_cursor_mini1","path":"objects/object_cursor_mini1/object_cursor_mini1.yy",},},
+    {"id":{"name":"object_torres","path":"objects/object_torres/object_torres.yy",},},
+    {"id":{"name":"spr_torres","path":"sprites/spr_torres/spr_torres.yy",},},
+    {"id":{"name":"secuence1_Walkrope","path":"sequences/secuence1_Walkrope/secuence1_Walkrope.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_minigame_3","path":"rooms/rm_minigame_3/rm_minigame_3.yy",},},
@@ -96,6 +105,7 @@
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"roomId":{"name":"rm_presentacionpayaso","path":"rooms/rm_presentacionpayaso/rm_presentacionpayaso.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

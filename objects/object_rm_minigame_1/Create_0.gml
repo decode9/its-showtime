@@ -7,6 +7,10 @@ game_finish = false;
 
 
 
+instance_create_layer(mouse_x, mouse_y,"LineGame",object_cursor_mini1);
+
+window_set_cursor(cr_none);
+
 
 
 
