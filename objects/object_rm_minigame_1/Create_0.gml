@@ -13,6 +13,8 @@ count = 0;
 svanio_sequence = pointer_null;
 typist = scribble_typist()
 typist.in(0.5,0)
+courtine_sequence = pointer_null
+set_change = false;
 instance_create_layer(mouse_x, mouse_y,"LineGame",object_cursor_mini1);
 
 window_set_cursor(cr_none);
