@@ -42,7 +42,10 @@ if(start_typing && count + 1 <= array_length(_dialog)){
 	actual_dialog = _dialog[count].personaje
 }
 
-if(typist.get_state() == 1 && keyboard_check_pressed(vk_space)) count += 1;
+if(typist.get_state() == 1 && keyboard_check_pressed(vk_space)){ 
+	count += 1;
+	audio_play_sound(click, 0, false);
+}
 if(typist.get_state() < 1 && keyboard_check_pressed(vk_space)) typist.skip(true);
 
 if(count + 1 > array_length(_dialog) && !set_alarm) {

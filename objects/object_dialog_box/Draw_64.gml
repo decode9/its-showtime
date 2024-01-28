@@ -38,7 +38,7 @@ var _ending_dialog = [
 		},
 		{
 			"personaje": "svanio",
-			"dialogo": "¡Jajaja! No podrías haber elegido algo más desafortunado. El animal o personaje\n es un " + object_animal_hidden.silluete[object_animal_hidden.selected].type
+			"dialogo": "¡Jajaja! No podrías haber elegido algo más desafortunado. El animal o personaje\n es un " + object_animal_hidden.silluete[object_animal_hidden.selected].type + ". Hazlo de nuevo!"
 		}
 	]
 ]

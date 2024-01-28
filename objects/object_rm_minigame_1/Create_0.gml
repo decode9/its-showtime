@@ -22,4 +22,4 @@ window_set_cursor(cr_none);
 scribble_font_set_default("ComicFont")
 
 
-
+audio_play_sound(viento_fondo,1,true);

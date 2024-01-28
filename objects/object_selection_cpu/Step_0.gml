@@ -1,6 +1,6 @@
 
 if(!object_rm_minigame_4.finish_game && object_rm_minigame_4.player_selected != ""){
-	
+	randomize()
 	if(counter < 60) counter += 1;
 	if(counter >= 60){
 		timer += 1;

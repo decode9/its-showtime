@@ -23,6 +23,9 @@ for(var i=0; i < array_length(winner); i++){
 }
 if(winner_selected == "") winner_selected = "tie";
 
+courtine_sequence = layer_sequence_create("Capas", 960, 0, sequence_cortina_close_left);
+layer_sequence_create("Capas", 960, 0, sequence_cortina_close_right);
+
 
 
 

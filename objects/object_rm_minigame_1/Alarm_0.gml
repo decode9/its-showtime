@@ -11,7 +11,7 @@ player_sequence = layer_sequence_create("secuencia", 960, 564, secuence1_Walkrop
 instance_create_layer(1778,800,"LineGame", object_line);
 
 init_game = true;
-
+audio_play_sound(cuerda_sonidito, 1,true)
 
 
 

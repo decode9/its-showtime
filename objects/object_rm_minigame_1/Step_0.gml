@@ -50,8 +50,12 @@ if(game_finish){
 
 if(courtine_sequence != pointer_null){
 	var _courtine_instance = layer_sequence_get_instance(courtine_sequence);
+	
+	var _instance = layer_sequence_get_instance(player_sequence);
+	var _sequence = layer_sequence_get_sequence(player_sequence)
 	if(_courtine_instance.finished && !set_change) {
-		alarm[3] = 120;
+		if(_sequence.name == "sequence_fall_player"){ alarm[4] = 120
+		}else {alarm[3] = 120; }
 		set_change = true;
 	}
 }
