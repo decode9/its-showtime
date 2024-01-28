@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_leon_brazo_piedra",
+  "name": "spr_pistola_svanio",
   "bbox_bottom": 302,
   "bbox_left": 0,
   "bbox_right": 599,
@@ -25,14 +25,14 @@
   "nineSlice": null,
   "origin": 9,
   "parent": {
-    "name": "Minijuego4",
-    "path": "folders/Sprites/Minijuego4.yy",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_leon_brazo_piedra",
+    "name": "spr_pistola_svanio",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9c254317-9247-4388-ad82-7fe6f7d86c7f","path":"sprites/spr_leon_brazo_piedra/spr_leon_brazo_piedra.yy",},},},"Disabled":false,"id":"bb83c137-8c2f-49b1-a481-d404950c46e1","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9c254317-9247-4388-ad82-7fe6f7d86c7f","path":"sprites/spr_pistola_svanio/spr_pistola_svanio.yy",},},},"Disabled":false,"id":"8a12f05d-de9e-4999-b34b-d87bf9847ca3","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
