@@ -1,3 +1,4 @@
 /// @description Inserte aquí la descripción
 // Puede escribir su código en este editor
-hspeed = -30;
+
+alarm[0] = 60*2;
