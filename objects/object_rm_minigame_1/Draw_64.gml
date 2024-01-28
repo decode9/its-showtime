@@ -18,11 +18,11 @@ if game_finish && loss < 20 {
   },
   {
     "sequence": sequence_mad_svanio,
-    "dialogo": "Necesito que la audiencia se divierta a tu costa. ¡Cortaré la cuerda para que te caigas y todos rían de ti!"
+    "dialogo": "Necesito que la audiencia se divierta a tu costa. ¡Cortaré la cuerda para que\n te caigas y todos rían de ti!"
   },
   {
     "sequence": sequence_scissor_svanio,
-    "dialogo": "¡La única risa que necesitamos es cuando te caigas! ¡Si no te lastimas, no importa! Es parte del riesgo de ser un payaso.\n ¡Así que prepárate para la caída!"
+    "dialogo": "¡La única risa que necesitamos es cuando te caigas! ¡Si no te lastimas, no importa!\n Es parte del riesgo de ser un payaso.\n ¡Así que prepárate para la caída!"
   }
   ]
   
