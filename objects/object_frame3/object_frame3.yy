@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "object_room2",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":32,"eventType":9,"isDnD":false,},
-  ],
+  "name": "object_frame3",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "Historia",
+    "path": "folders/Objetos/Historia.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite35",
-    "path": "sprites/Sprite35/Sprite35.yy",
+    "name": "spr_frame3",
+    "path": "sprites/spr_frame3/spr_frame3.yy",
   },
   "spriteMaskId": null,
   "visible": true,
