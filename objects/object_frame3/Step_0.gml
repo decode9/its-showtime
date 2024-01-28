@@ -2,7 +2,7 @@
 // Puede escribir su código en este editor
 if object_frame2.x <= 0 and !alarm_executed
 {
-	alarm[0] = 60*5;	
+	alarm[0] = 240;	
 	alarm_executed = true;
 }
 
