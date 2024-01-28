@@ -23,7 +23,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"eefdb04e-a57e-4a81-bbcc-76fb2fa33220","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 4,
+  "origin": 7,
   "parent": {
     "name": "Svanio",
     "path": "folders/Sprites/Characters/Svanio.yy",
@@ -60,7 +60,7 @@
     "visibleRange": null,
     "volume": 1.0,
     "xorigin": 339,
-    "yorigin": 593,
+    "yorigin": 1186,
   },
   "swatchColours": null,
   "swfPrecision": 2.525,

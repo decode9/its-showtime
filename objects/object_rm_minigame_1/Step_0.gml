@@ -5,40 +5,43 @@ if keyboard_check(ord("R"))
 	room_restart();	
 }
 
+if(init_game && !game_finish){
+	var _mapping_y = object_Mapping.y;
+	var _maxTop = _mapping_y - 150;
+	var _maxBottom = _mapping_y + 150;
 
-var _mapping_y = object_Mapping.y;
-var _maxTop = _mapping_y - 150;
-var _maxBottom = _mapping_y + 150;
+	var _display_mouse = _mapping_y;
 
-var _display_mouse = _mapping_y;
+	var _mouse_y = display_mouse_get_y();
 
-var _mouse_y = display_mouse_get_y();
+	if(_mouse_y > _maxBottom) _display_mouse = _maxBottom;
 
-if(_mouse_y > _maxBottom) _display_mouse = _maxBottom;
+	if(_mouse_y < _maxTop) _display_mouse = _maxTop;
 
-if(_mouse_y < _maxTop) _display_mouse = _maxTop;
+	if(_mouse_y < _maxBottom && _mouse_y > _maxTop) _display_mouse = _mouse_y
 
-if(_mouse_y < _maxBottom && _mouse_y > _maxTop) _display_mouse = _mouse_y
+	display_mouse_set(180, _display_mouse);
 
-display_mouse_set(150, _display_mouse);
+	if !game_finish{
+		if counter < 60 {
+			counter +=1;
+		}
+
+		if counter >= 60 {
+			timer -=1;
+			counter = 0;
+		}
+		if timer== 0 {
+			game_finish = true;
+			alarm[2] = 10;
+		}
+	}
+}
+if(game_finish){
+var _instance = layer_sequence_get_instance(player_sequence);
+var _sequence = layer_sequence_get_sequence(player_sequence)
+if(_instance.finished && _sequence.name == "sequence_fall_player") room_goto_next()
+}
 
 object_cursor_mini1.x = mouse_x;
 object_cursor_mini1.y = mouse_y;
-if !game_finish{
-
-if counter < 60 {
-	counter +=1;
-}
-
-if counter >= 60 {
-	timer -=1;
-	counter = 0;
-}
-if timer== 0 {
-	game_finish = true;
-}
-}
-
-
-//_cursor.x = 100;
-

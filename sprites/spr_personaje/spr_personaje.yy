@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "spr_personaje",
   "bbox_bottom": 497,
-  "bbox_left": 61,
+  "bbox_left": 60,
   "bbox_right": 451,
   "bbox_top": 8,
   "bboxMode": 0,
