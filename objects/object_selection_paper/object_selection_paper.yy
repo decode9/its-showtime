@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite28",
-    "path": "sprites/Sprite28/Sprite28.yy",
+    "name": "spr_paper",
+    "path": "sprites/spr_paper/spr_paper.yy",
   },
   "spriteMaskId": null,
   "visible": true,
