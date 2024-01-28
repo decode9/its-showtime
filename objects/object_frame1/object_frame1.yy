@@ -1,15 +1,16 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "object_rope",
+  "name": "object_frame1",
   "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "MiniGame1",
-    "path": "folders/Objetos/MiniGame1.yy",
+    "name": "Historia",
+    "path": "folders/Objetos/Historia.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_rope",
-    "path": "sprites/spr_rope/spr_rope.yy",
+    "name": "spr_frame1",
+    "path": "sprites/spr_frame1/spr_frame1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
