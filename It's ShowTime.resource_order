@@ -110,6 +110,7 @@
     {"name":"scribble_fallback_bulletpoint","order":12,"path":"sprites/scribble_fallback_bulletpoint/scribble_fallback_bulletpoint.yy",},
     {"name":"__scribble_get_state","order":14,"path":"scripts/__scribble_get_state/__scribble_get_state.yy",},
     {"name":"scribble_font_exists","order":7,"path":"scripts/scribble_font_exists/scribble_font_exists.yy",},
+    {"name":"object_dialog_box","order":6,"path":"objects/object_dialog_box/object_dialog_box.yy",},
     {"name":"scribble_anim_jitter","order":2,"path":"scripts/scribble_anim_jitter/scribble_anim_jitter.yy",},
     {"name":"scribble_anim_cycle","order":1,"path":"scripts/scribble_anim_cycle/scribble_anim_cycle.yy",},
     {"name":"__scribble_system","order":10,"path":"scripts/__scribble_system/__scribble_system.yy",},

@@ -2,3 +2,4 @@
 // Puede escribir su código en este editor
 
 room_goto_next()
+window_set_cursor(cr_arrow);

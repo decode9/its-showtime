@@ -65,7 +65,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.4.0.84",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"spr_totogames","path":"sprites/spr_totogames/spr_totogames.yy",},},
@@ -152,6 +152,7 @@
     {"id":{"name":"scribble_fallback_bulletpoint","path":"sprites/scribble_fallback_bulletpoint/scribble_fallback_bulletpoint.yy",},},
     {"id":{"name":"__scribble_get_state","path":"scripts/__scribble_get_state/__scribble_get_state.yy",},},
     {"id":{"name":"scribble_font_exists","path":"scripts/scribble_font_exists/scribble_font_exists.yy",},},
+    {"id":{"name":"object_dialog_box","path":"objects/object_dialog_box/object_dialog_box.yy",},},
     {"id":{"name":"scribble_anim_jitter","path":"scripts/scribble_anim_jitter/scribble_anim_jitter.yy",},},
     {"id":{"name":"scribble_anim_cycle","path":"scripts/scribble_anim_cycle/scribble_anim_cycle.yy",},},
     {"id":{"name":"__scribble_system","path":"scripts/__scribble_system/__scribble_system.yy",},},
@@ -339,17 +340,18 @@
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_minigame_1","path":"rooms/rm_minigame_1/rm_minigame_1.yy",},},
-    {"roomId":{"name":"rm_minigame_4","path":"rooms/rm_minigame_4/rm_minigame_4.yy",},},
     {"roomId":{"name":"rm_minigame_3","path":"rooms/rm_minigame_3/rm_minigame_3.yy",},},
+    {"roomId":{"name":"rm_minigame_2","path":"rooms/rm_minigame_2/rm_minigame_2.yy",},},
+    {"roomId":{"name":"rm_minigame_4","path":"rooms/rm_minigame_4/rm_minigame_4.yy",},},
     {"roomId":{"name":"rm_historia","path":"rooms/rm_historia/rm_historia.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_minigame_2_cinematica","path":"rooms/rm_minigame_2_cinematica/rm_minigame_2_cinematica.yy",},},
-    {"roomId":{"name":"rm_minigame_2","path":"rooms/rm_minigame_2/rm_minigame_2.yy",},},
     {"roomId":{"name":"rm_Totogames","path":"rooms/rm_Totogames/rm_Totogames.yy",},},
     {"roomId":{"name":"rm_gamejam","path":"rooms/rm_gamejam/rm_gamejam.yy",},},
     {"roomId":{"name":"rm_presentacionpayaso","path":"rooms/rm_presentacionpayaso/rm_presentacionpayaso.yy",},},
     {"roomId":{"name":"rm_final","path":"rooms/rm_final/rm_final.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

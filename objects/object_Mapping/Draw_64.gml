@@ -5,7 +5,7 @@ if(!object_rm_minigame_1.init_game){
 var _dialog = [
   {
     "personaje": "svanio",
-    "dialogo": "Aqui estamos payaso, Bien, prepárate para un verdadero desafío. Hoy, querido payaso, te tocará enfrentarte\n a la temida cuerda floja."
+    "dialogo": "Aqui estamos payaso, Bien, prepárate para un verdadero desafío. Hoy, querido\n payaso, te tocará enfrentarte a la temida cuerda floja."
   },
   {
     "personaje": "jugador",
@@ -13,7 +13,7 @@ var _dialog = [
   },
   {
     "personaje": "svanio",
-    "dialogo": "¡Por supuesto que estás preparado! ¡Eres un valiente y todos te admiran! Caminar sobre la cuerda floja\n es solo un pequeño obstáculo para ti."
+    "dialogo": "¡Por supuesto que estás preparado! ¡Eres un valiente y todos te admiran!\n Caminar sobre la cuerda floja es solo un pequeño obstáculo para ti."
   },
   {
     "personaje": "jugador",
@@ -21,11 +21,11 @@ var _dialog = [
   },
   {
     "personaje": "svanio",
-    "dialogo": "¡Eso lo hace aún más emocionante! No te preocupes, te daré una oportunidad. Tendrás que aguantar al menos 30 segundos\n caminando sobre la temblorosa cuerda floja."
+    "dialogo": "¡Eso lo hace aún más emocionante! No te preocupes, te daré una oportunidad.\n Tendrás que aguantar al menos 30 segundos caminando sobre la\n temblorosa cuerda floja."
   },
   {
     "personaje": "jugador",
-    "dialogo": "Está bien, lo intentaré. Pero por favor, no haga nada que pueda poner en peligro mi vida."
+    "dialogo": "Está bien, lo intentaré. Pero por favor, no haga nada que pueda poner en\n peligro mi vida."
   },
   {
     "personaje": "svanio",
