@@ -2,14 +2,21 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "object_jirafa",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+  ],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"object_animal_selection","path":"objects/object_animal_selection/object_animal_selection.yy",},"propertyId":{"name":"animal","path":"objects/object_animal_selection/object_animal_selection.yy",},"value":"jirafa",},
+  ],
   "parent": {
     "name": "MiniGame3",
     "path": "folders/Objetos/MiniGame3.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "object_animal_selection",
+    "path": "objects/object_animal_selection/object_animal_selection.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -25,7 +32,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_jirafa_real",
+    "path": "sprites/spr_jirafa_real/spr_jirafa_real.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

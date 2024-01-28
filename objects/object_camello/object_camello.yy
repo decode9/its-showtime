@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "object_payaso",
+  "name": "object_camello",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"object_animal_selection","path":"objects/object_animal_selection/object_animal_selection.yy",},"propertyId":{"name":"animal","path":"objects/object_animal_selection/object_animal_selection.yy",},"value":"payaso",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"object_animal_selection","path":"objects/object_animal_selection/object_animal_selection.yy",},"propertyId":{"name":"animal","path":"objects/object_animal_selection/object_animal_selection.yy",},"value":"camello",},
   ],
   "parent": {
     "name": "MiniGame3",
@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_payaso_real",
-    "path": "sprites/spr_payaso_real/spr_payaso_real.yy",
+    "name": "spr_camello_real",
+    "path": "sprites/spr_camello_real/spr_camello_real.yy",
   },
   "spriteMaskId": null,
   "visible": true,

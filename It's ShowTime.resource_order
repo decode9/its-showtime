@@ -43,8 +43,8 @@
     {"name":"Minijuego1","order":2,"path":"folders/Sprites/Minijuego1.yy",},
     {"name":"Minijuego2","order":1,"path":"folders/Sprites/Minijuego2.yy",},
     {"name":"Minijuego3","order":18,"path":"folders/Sprites/Minijuego3.yy",},
-    {"name":"PresentacionPayaso","order":3,"path":"folders/Sprites/PresentacionPayaso.yy",},
     {"name":"Minijuego4","order":19,"path":"folders/Sprites/Minijuego4.yy",},
+    {"name":"PresentacionPayaso","order":3,"path":"folders/Sprites/PresentacionPayaso.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_totogames","order":14,"path":"sprites/spr_totogames/spr_totogames.yy",},
@@ -169,7 +169,7 @@
     {"name":"scribble_flush_everything","order":1,"path":"scripts/scribble_flush_everything/scribble_flush_everything.yy",},
     {"name":"spr_backgroundJuegocinematica","order":2,"path":"sprites/spr_backgroundJuegocinematica/spr_backgroundJuegocinematica.yy",},
     {"name":"__shd_scribble_bake_outline_8dir_2px","order":3,"path":"shaders/__shd_scribble_bake_outline_8dir_2px/__shd_scribble_bake_outline_8dir_2px.yy",},
-    {"name":"objecj_camello","order":3,"path":"objects/objecj_camello/objecj_camello.yy",},
+    {"name":"object_camello","order":3,"path":"objects/object_camello/object_camello.yy",},
     {"name":"__scribble_class_font","order":2,"path":"scripts/__scribble_class_font/__scribble_class_font.yy",},
     {"name":"__scribble_class_event","order":1,"path":"scripts/__scribble_class_event/__scribble_class_event.yy",},
     {"name":"object_payaso","order":4,"path":"objects/object_payaso/object_payaso.yy",},
