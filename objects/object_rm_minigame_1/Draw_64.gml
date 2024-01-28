@@ -37,6 +37,10 @@ if(typist.get_state() == 1 && keyboard_check_pressed(vk_space)) {
 	layer_sequence_destroy(svanio_sequence);
 	svanio_sequence = layer_sequence_create("secuencia", 1568,544, _dialog[count].sequence)
 	}
+	if(count + 1 > array_length(_dialog) && courtine_sequence == pointer_null){
+		courtine_sequence = layer_sequence_create("Capas", 960, 0, sequence_cortina_close_left);
+		layer_sequence_create("Capas", 960, 0, sequence_cortina_close_right);
+	}
 }
 if(typist.get_state() < 1 && keyboard_check_pressed(vk_space)) typist.skip(true);
 

@@ -13,4 +13,7 @@ if(actual_dialog == "jugador"){
 if (actual_dialog == "svanio"){
 	_svanio.playbackSpeed = 30
 }
+
+var _courtine = layer_sequence_get_instance(courtine_left)
+if(_courtine.finished && !start_typing) start_typing = true; 
 }
