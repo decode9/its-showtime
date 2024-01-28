@@ -10,8 +10,8 @@
     {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"object_selection_player","path":"objects/object_selection_player/object_selection_player.yy",},"propertyId":{"name":"type","path":"objects/object_selection_player/object_selection_player.yy",},"value":"scissor",},
   ],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "MiniGame4",
+    "path": "folders/Objetos/MiniGame4.yy",
   },
   "parentObjectId": {
     "name": "object_selection_player",
