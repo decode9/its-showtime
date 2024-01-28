@@ -331,12 +331,12 @@
     {"id":{"name":"secuence1_Walkrope","path":"sequences/secuence1_Walkrope/secuence1_Walkrope.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_minigame_4","path":"rooms/rm_minigame_4/rm_minigame_4.yy",},},
     {"roomId":{"name":"rm_minigame_3","path":"rooms/rm_minigame_3/rm_minigame_3.yy",},},
     {"roomId":{"name":"rm_historia","path":"rooms/rm_historia/rm_historia.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_minigame_2_cinematica","path":"rooms/rm_minigame_2_cinematica/rm_minigame_2_cinematica.yy",},},
     {"roomId":{"name":"rm_minigame_2","path":"rooms/rm_minigame_2/rm_minigame_2.yy",},},
-    {"roomId":{"name":"rm_minigame_4","path":"rooms/rm_minigame_4/rm_minigame_4.yy",},},
     {"roomId":{"name":"rm_minigame_1","path":"rooms/rm_minigame_1/rm_minigame_1.yy",},},
     {"roomId":{"name":"rm_Totogames","path":"rooms/rm_Totogames/rm_Totogames.yy",},},
     {"roomId":{"name":"rm_gamejam","path":"rooms/rm_gamejam/rm_gamejam.yy",},},
