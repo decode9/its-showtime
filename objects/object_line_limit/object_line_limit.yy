@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite19",
-    "path": "sprites/Sprite19/Sprite19.yy",
+    "name": "spr_boom",
+    "path": "sprites/spr_boom/spr_boom.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -9,8 +9,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "MiniGame4",
+    "path": "folders/Objetos/MiniGame4.yy",
   },
   "parentObjectId": null,
   "persistent": false,

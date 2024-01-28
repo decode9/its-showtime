@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_line_force",
-    "path": "sprites/spr_line_force/spr_line_force.yy",
+    "name": "spr_pumback",
+    "path": "sprites/spr_pumback/spr_pumback.yy",
   },
   "spriteMaskId": null,
   "visible": true,
