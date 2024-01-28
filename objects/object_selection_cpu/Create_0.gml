@@ -6,15 +6,15 @@ selected_type ={}
 types = [
 	{
 		value: "rock",
-		sprite:  Sprite27
+		sprite:  spr_leon_brazo_piedra
 	},
 	{
 		value: "paper",
-		sprite:  Sprite28
+		sprite: spr_leon_brazo_papel
 	},
 	{
 		value: "scissor",
-		sprite:  Sprite29
+		sprite:  spr_leon_brazo_tijeras
 	},
 ]
 

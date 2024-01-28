@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite29",
-    "path": "sprites/Sprite29/Sprite29.yy",
+    "name": "spr_tijeras",
+    "path": "sprites/spr_tijeras/spr_tijeras.yy",
   },
   "spriteMaskId": null,
   "visible": true,
