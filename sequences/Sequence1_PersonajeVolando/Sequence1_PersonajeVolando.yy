@@ -27,7 +27,7 @@
     "name": "Secuencias",
     "path": "folders/Secuencias.yy",
   },
-  "playback": 1,
+  "playback": 0,
   "playbackSpeed": 30.0,
   "playbackSpeedType": 0,
   "showBackdrop": true,
